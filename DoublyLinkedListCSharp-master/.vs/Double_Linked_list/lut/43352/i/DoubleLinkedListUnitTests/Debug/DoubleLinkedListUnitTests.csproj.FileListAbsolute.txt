@@ -1,0 +1,8 @@
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedListUnitTests\bin\Debug\DoubleLinkedListUnitTests.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedListUnitTests\Debug\DoubleLinkedListUnitTests.csprojAssemblyReference.cache
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedListUnitTests\Debug\DoubleLinkedListUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedListUnitTests\Debug\DoubleLinkedListUnitTests.csproj.CopyComplete
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedListUnitTests\Debug\DoubleLinkedListUnitTests.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedListUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedListUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedListUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

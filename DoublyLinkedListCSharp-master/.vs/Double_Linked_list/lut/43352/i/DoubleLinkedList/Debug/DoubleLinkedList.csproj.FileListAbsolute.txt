@@ -1,0 +1,11 @@
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\b\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.csprojAssemblyReference.cache
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.Properties.Resources.resources
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.csproj.GenerateResource.cache
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.csproj.CopyComplete
+C:\Users\Lenovo_Grigis_PC\Desktop\DoublyLinkedListCSharp-master\.vs\Double_Linked_list\lut\0\i\DoubleLinkedList\Debug\DoubleLinkedList.exe
